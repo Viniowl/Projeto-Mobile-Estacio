@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+mobile/node_modules/
+
+# Local configuration files
+.env
+.DS_Store
+.vscode/
+
+# Build and Output directories
+dist/
+build/
+*.log
+
+# Expo / React Native
+.expo/
+web-build/
+app.json
+
+# TypeScript cache
+*.tsbuildinfo
